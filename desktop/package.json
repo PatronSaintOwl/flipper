@@ -209,7 +209,7 @@
     "metro": "^0.63.0",
     "metro-minify-terser": "^0.63.0",
     "metro-resolver": "^0.63.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.2.3",
     "p-filter": "^2.1.0",
     "p-map": "^4.0.0",
     "pkg": "^4.4.1",
